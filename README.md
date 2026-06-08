@@ -23,7 +23,7 @@ Currently, I'm focusing on strengthening my foundations in Python, Data Structur
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css" />
 </p>
 
 ### AI / ML & Data Science
@@ -69,15 +69,6 @@ Currently, I'm focusing on strengthening my foundations in Python, Data Structur
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshtiwari961&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshtiwari961&layout=compact&theme=tokyonight" height="170">
 </p>
 
 ---
