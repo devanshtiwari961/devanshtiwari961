@@ -27,11 +27,16 @@ Currently, I'm focusing on strengthening my foundations in Python, Data Structur
 </p>
 
 ### AI / ML & Data Science
-<p>
-Python • NumPy • Pandas • Flask
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
-### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
 ### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
