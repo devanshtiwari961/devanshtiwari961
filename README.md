@@ -1,14 +1,12 @@
-# Hi there 👋, I'm Devansh Tiwari
+<h1 align="center">Hi 👋, I'm Devansh Tiwari</h1>
 
-### B.Tech CSE Student | Aspiring AI/ML Engineer | Problem Solver
-
-I'm a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, Data Science, and Problem Solving. I enjoy learning how intelligent systems work, building projects that solve real-world problems, and continuously improving my programming skills.
-
-Currently, I'm focusing on strengthening my foundations in Python, Data Structures & Algorithms, Machine Learning, and Deep Learning while building practical projects along the way.
+<h3 align="center">
+AI/ML Enthusiast | Data Science Learner | Problem Solver
+</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering(Data Science)
 - 💡 Interested in AI, Machine Learning, and Data Science
@@ -69,22 +67,6 @@ Currently, I'm focusing on strengthening my foundations in Python, Data Structur
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devanshtiwari961&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshtiwari961&theme=tokyo-night" />
 </p>
 
 ---
