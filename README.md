@@ -25,14 +25,28 @@ AI/ML Enthusiast | Data Science Learner | Problem Solver
 </p>
 
 ### AI / ML & Data Science
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Data Analysis & Feature Engineering
+<p>
+  <img src="https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Feature_Engineering-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistics-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-red?style=for-the-badge"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & Platforms
@@ -40,7 +54,6 @@ AI/ML Enthusiast | Data Science Learner | Problem Solver
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
-
 ---
 
 ## 📚 Currently Learning
