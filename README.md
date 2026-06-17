@@ -8,12 +8,17 @@ AI/ML Enthusiast | Data Science Learner | Problem Solver
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering(Data Science)
-- 💡 Interested in AI, Machine Learning, and Data Science
-- 🧠 Learning Deep Learning and Computer Vision
-- 💻 Solving Data Structures & Algorithms problems in C++
-- 🔍 Exploring how AI can be used to solve real-world challenges
-- 🌱 Always learning something new
+> Turning data into insights and ideas into working solutions.
+
+• B.Tech CSE (Data Science)
+
+• Data Analysis | EDA | Feature Engineering | Statistics
+
+• Machine Learning | Computer Vision | Flask
+
+• MongoDB | MySQL | Python Ecosystem
+
+• DSA & Problem Solving in C++
 
 ---
 
